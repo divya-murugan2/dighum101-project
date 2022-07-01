@@ -1,6 +1,4 @@
-# dighum101-project
-
-## Analyzing What Factors Affect Quality of Life
+# Analyzing What Factors Affect Quality of Life
 
 ![Quality of Life Visual](https://www160.statcan.gc.ca/images/qol-identifier-eng.png)
 
